@@ -1,4 +1,4 @@
-# Khamkha
+# non-necessarily / خواہ مخواہ
 
 A static GitHub Pages collection. Start with `index.html`.
 
@@ -9,12 +9,12 @@ A static GitHub Pages collection. Start with `index.html`.
 - `crossword.html`: Death by Chocolate — a solved Urdu crossword containing all 44 available phrases.
 - `cloud.html`: Death by Chocolate — the same 44 Urdu phrases as an interactive word cloud.
 
-Both Urdu apps include six palettes, four embedded fonts, mouse highlighting and touch interaction. The expanded crossword has grid-size and whole-grid controls. Every page links back to Home. Fonts and code are embedded, so no installation or build step is required.
+Both Urdu apps include six palettes, four embedded fonts, mouse highlighting and touch interaction. Home, card titles and app controls use Urdu and English. Three original humorous illustrations appear in the `assets/` folder. The expanded crossword has grid-size and whole-grid controls. Every page links back to Home. Fonts and code are embedded, so no installation or build step is required.
 
 ## Publish on GitHub Pages
 
-1. Create your repository named `Khamkha`.
-2. Extract this ZIP and upload its contents directly into the repository root. `index.html` must sit at the top level, not inside another folder.
+1. Create your repository named `non-necessarily`.
+2. Extract this ZIP and upload its contents, including the `assets` folder, directly into the repository root. `index.html` must sit at the top level, not inside another folder.
 3. Commit the files to `main`.
 4. Open **Settings → Pages**.
 5. Under **Build and deployment**, choose **Deploy from a branch**, select **main** and **/(root)**, then **Save**.
